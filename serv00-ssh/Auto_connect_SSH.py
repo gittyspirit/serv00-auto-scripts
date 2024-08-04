@@ -10,10 +10,10 @@ import pytz
 url = '你检测的地址，参考下一行注释'  
 # 测试URL 这个URL是个凉了的 url = 'https://edwgiz.serv00.net/'
 ssh_info = {  
-    'host': 's3.serv00.com',    # 主机地址
+    'host': 's8.serv00.com',    # 主机地址
     'port': 22,  
-    'username': '你的用户名',       # 你的用户名，别写错了
-    'password': '你的SSH密码'       # 你注册的时候收到的密码或者你自己改了的密码
+    'username': 'gityu',       # 你的用户名，别写错了
+    'password': 'S*sP$ooI6rpL*2ZXfI2x'       # 你注册的时候收到的密码或者你自己改了的密码
 }
 
 WECHAT_ROBOT_KEY  = '你的企业微信机器人的Key部分'      # 需要替换成你的企业微信机器人的Webhook Key，参考 https://open.work.weixin.qq.com/help2/pc/14931
